@@ -2,7 +2,7 @@ package challenge;
 
 import java.util.*;
 
-public class Lv2 {
+public class Lv02 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int score = sc.nextInt();
