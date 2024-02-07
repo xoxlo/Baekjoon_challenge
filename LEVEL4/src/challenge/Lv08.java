@@ -24,4 +24,4 @@ public class Lv08 {
 		}
 		System.out.println(count);	// 서로 다른 나머지 갯수 출력
 	}
-}
+}	
